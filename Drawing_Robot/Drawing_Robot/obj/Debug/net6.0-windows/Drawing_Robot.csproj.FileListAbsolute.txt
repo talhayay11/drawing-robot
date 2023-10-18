@@ -1,0 +1,140 @@
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.exe
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.deps.json
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.runtimeconfig.json
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Nakov.TurtleGraphics.dll
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.AssemblyReference.cache
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Form1.resources
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.GenerateResource.cache
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfoInputs.cache
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfo.cs
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CopyComplete
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\refint\Drawing_Robot.dll
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.genruntimeconfig.cache
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\ref\Drawing_Robot.dll
+C:\Users\Sefa\source\repos\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Properties.Resources.resources
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.exe
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.deps.json
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.runtimeconfig.json
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Nakov.TurtleGraphics.dll
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.AssemblyReference.cache
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Form1.resources
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Properties.Resources.resources
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfoInputs.cache
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfo.cs
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CopyComplete
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\refint\Drawing_Robot.dll
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.genruntimeconfig.cache
+C:\Users\Sefa\Desktop\Drawing_Robot2\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\ref\Drawing_Robot.dll
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.exe
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.deps.json
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.runtimeconfig.json
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Nakov.TurtleGraphics.dll
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.AssemblyReference.cache
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Form1.resources
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Properties.Resources.resources
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.GenerateResource.cache
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfoInputs.cache
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfo.cs
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CoreCompileInputs.cache
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CopyComplete
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\refint\Drawing_Robot.dll
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.genruntimeconfig.cache
+C:\Users\Sefa\Desktop\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\ref\Drawing_Robot.dll
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.exe
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.deps.json
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.runtimeconfig.json
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Nakov.TurtleGraphics.dll
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Form1.resources
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Properties.Resources.resources
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfo.cs
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CopyComplete
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\refint\Drawing_Robot.dll
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.genruntimeconfig.cache
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\ref\Drawing_Robot.dll
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.AssemblyReference.cache
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Form1.resources
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Properties.Resources.resources
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.GenerateResource.cache
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfo.cs
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\refint\Drawing_Robot.dll
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.exe
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.deps.json
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.runtimeconfig.json
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Nakov.TurtleGraphics.dll
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CopyComplete
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.genruntimeconfig.cache
+C:\Users\talha\OneDrive - Karadeniz Teknik University\Masaüstü\Yeni klasör\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\ref\Drawing_Robot.dll
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.exe
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.deps.json
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.runtimeconfig.json
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Nakov.TurtleGraphics.dll
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.AssemblyReference.cache
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Form1.resources
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Properties.Resources.resources
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.GenerateResource.cache
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfoInputs.cache
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfo.cs
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CoreCompileInputs.cache
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CopyComplete
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\refint\Drawing_Robot.dll
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.genruntimeconfig.cache
+C:\Users\TALHA\Desktop\ders\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\ref\Drawing_Robot.dll
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.exe
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.deps.json
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.runtimeconfig.json
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Nakov.TurtleGraphics.dll
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.AssemblyReference.cache
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Form1.resources
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Properties.Resources.resources
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.GenerateResource.cache
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfoInputs.cache
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfo.cs
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CoreCompileInputs.cache
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CopyComplete
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\refint\Drawing_Robot.dll
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.genruntimeconfig.cache
+C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\ref\Drawing_Robot.dll
