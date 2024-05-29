@@ -138,3 +138,24 @@ C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Ro
 C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.pdb
 C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.genruntimeconfig.cache
 C:\Users\TALHA\Desktop\ders\2.sınıf 2. dönem\otamata\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\ref\Drawing_Robot.dll
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.exe
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.deps.json
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.runtimeconfig.json
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\bin\Debug\net6.0-windows\Nakov.TurtleGraphics.dll
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.AssemblyReference.cache
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Form1.resources
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.Properties.Resources.resources
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.GenerateResource.cache
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfoInputs.cache
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.AssemblyInfo.cs
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.csproj.CoreCompileInputs.cache
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.sourcelink.json
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_.D6C1063F.Up2Date
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.dll
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\refint\Drawing_Robot.dll
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.pdb
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\Drawing_Robot.genruntimeconfig.cache
+C:\Users\talha\Documents\GitHub\drawing-robot\Drawing_Robot\Drawing_Robot\obj\Debug\net6.0-windows\ref\Drawing_Robot.dll
